@@ -63,6 +63,7 @@
 						<exclude>
 							<groupId>org.projectlombok</groupId>
 							<artifactId>lombok</artifactId>
+							<version>3.8.1</version>
 						</exclude>
 					</excludes>
 				</configuration>
