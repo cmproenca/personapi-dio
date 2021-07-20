@@ -29,6 +29,7 @@ POST   - localhost:8080/api/v1/people
 PUT    - localhost:8080/api/v1/people/{id}
 DELETE - localhost:8080/api/v1/people/{id}
 ```
+OBS: Recomenda-se o uso do Postman para melhor utilização da API Rest.
 
 São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido:
 
